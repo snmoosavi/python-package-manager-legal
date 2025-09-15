@@ -1,0 +1,42 @@
+# Privacy Policy — Python Package Manager
+**Last updated:** 2025-09-15  
+**Publisher:** [Your Company or Name]  
+**Contact:** [your-email@example.com]
+
+## Summary
+Python Package Manager does **not** collect, sell, or share personal data. The app manages Python packages locally on your device and only connects to the internet to fetch package information/files from public indexes (e.g., PyPI) or any custom index you configure.
+
+## Data We Do Not Collect
+- No account creation; no personal identifiers (name, email, phone).
+- No analytics or telemetry by default.
+- No access to contacts, location, camera, microphone, or photos.
+
+## What the App Does
+- **Network access:** Queries and downloads packages from package indexes you choose (e.g., `pypi.org`) over HTTPS when available.
+- **Local storage:** Reads/writes within Python environments and folders you select to install, uninstall, or update packages.
+- **Optional diagnostics (off by default):** If you explicitly enable error/crash reporting, the app may send non-personal technical logs (e.g., stack traces, OS/app version) solely to diagnose problems. You can turn this off at any time.  
+  > If a third-party provider is used (e.g., Sentry), list it here and link to its policy.
+
+## Third-Party Services
+When you use public or custom indexes (such as PyPI), their own privacy practices apply to those websites/services.
+
+## Children’s Privacy
+This app is not directed to children and intentionally collects no personal data.
+
+## Security
+Operations are local unless you connect to external services. We recommend using secure (HTTPS) endpoints for any index or repository.
+
+## Data Retention
+We do not retain personal data. If you enabled optional diagnostics, related technical logs—if any—are kept only as long as necessary to investigate and resolve issues.
+
+## Your Rights
+Because we do not collect personal data, there is generally nothing to access or delete. If you enabled diagnostics and want associated technical logs removed, contact us at the email above.
+
+## Legal Bases (GDPR/CCPA)
+We do not process personal data as defined by GDPR/CCPA. If you contact us, we will process your email/message solely to respond to your inquiry.
+
+## Changes
+We may update this policy as the app evolves. We will revise the “Last updated” date and publish changes at this same URL.
+
+## Contact
+Questions about this Privacy Policy? Email us at **[your-email@example.com]**.
